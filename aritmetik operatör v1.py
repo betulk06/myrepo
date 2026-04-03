@@ -8,3 +8,6 @@ print(f"Toplama: {sayi1} + {sayi2} = {sayi1 + sayi2}")
 
 # Çıkarma
 print(f"Çıkarma: {sayi1} - {sayi2} = {sayi1 - sayi2}")
+
+# Çarpma
+print(f"Çarpma: {sayi1} * {sayi2} = {sayi1 * sayi2}")
