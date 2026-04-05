@@ -13,4 +13,7 @@ print(f"Çıkarma: {sayi1} - {sayi2} = {sayi1 - sayi2}")
 print(f"Çarpma: {sayi1} * {sayi2} = {sayi1 * sayi2}")
 
 # bölme
-print(f"Çarpma: {sayi1} / {sayi2} = {sayi1 / sayi2}")
+print(f"bölme: {sayi1} / {sayi2} = {sayi1 / sayi2}")
+
+# mod alma
+print(f"mod_alma: {sayi1} % {sayi2} = {sayi1 % sayi2}")
